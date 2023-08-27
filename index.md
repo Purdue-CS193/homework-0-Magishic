@@ -1,6 +1,6 @@
 # Rishi's First CS193 Homework
 
-Things that I like about CS 193
+_Things that I like about CS 193_
 - The instructors
 - Student-run aspect
 - Cool looking websites
